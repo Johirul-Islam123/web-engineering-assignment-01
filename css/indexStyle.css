@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial black;
+}
+.mainScreen{
+    width: 1170px;
+    margin: auto;
+    overflow: hidden;
+}
+body{
+    
+}
+#header{
+    
+}
+#header h1{
+    padding: 10px;
+    text-align: center;
+    background: black;
+    color: white;
+}
+
+#leftContent{
+    width: 400px;
+    float: left;
+}
+
+#rightContent{
+    width: 700px;
+    float: right;
+}
+#rightContent h3{
+    margin-top: 100px;
+}
+#rightContent p{
+    font-family: -webkit-body;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#rightContent a{
+    font-family: -webkit-body;
+    padding: 10px;
+    background: black;
+    color: blue;
+    text-decoration: none;
+    border-radius: 5px;
+}
+#rightContent a:hover{
+    color: white;
+}
+#leftContent #rightContent{
+    display: inline-block;
+}

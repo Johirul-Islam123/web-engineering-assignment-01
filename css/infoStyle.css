@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial black;
+}
+.mainScreen{
+    width: 1170px;
+    margin: auto;
+    overflow: hidden;
+    background: #00000012;
+}
+#personalInfo{
+    
+}
+#personalInfo h3{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background: black;
+    color: white;
+}
+#personalInfo p{
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+#hobbies h3{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background: black;
+    color: white;
+}
+#hobbies p{
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+#favLink h3{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background: black;
+    color: white;
+}
+#favLink ul li{
+    margin: 10px;
+}
+#favLink ul li a{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+#tTen h3{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background: black;
+    color: white;
+}
+#tTen ul li{
+    margin-left: 50px;
+    font-family: sans-serif;
+    font-size: 20px;
+    list-style: decimal;
+}
+#backSec{
+    margin-top: 40px;
+}
+#back{
+    background: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    
+}
